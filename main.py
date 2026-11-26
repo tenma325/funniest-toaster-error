@@ -4,8 +4,8 @@
 Running this program writes the entry text to /output/entry.txt.
 
 The entry is a single toaster error message: the machine accepts
-the bread, rejects the expectations, and cheerfully promotes the
-toast to charcoal under error code 451.
+the bread, rejects the expectations, and proudly promotes the
+toast to charcoal, citing error code 451.
 
 The text is fixed in the source below, so every run produces
 exactly the same bytes. The program uses only the Python standard
